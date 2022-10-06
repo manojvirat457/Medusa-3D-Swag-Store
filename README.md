@@ -1,8 +1,12 @@
 # Hacktoberfest-medusa
 
-[![Watch the video](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/thumbnail.png)]
+## Regular Preview
+[![Watch the video](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/thumbnail.png)](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Full Preview
+[![Watch the video](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/thumb2.png)](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
+
+## Zoom, Pan & Rotate Preview 
+[![Watch the video](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/thub3.png)](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
+
+
