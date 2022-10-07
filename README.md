@@ -23,12 +23,24 @@ In this section, give a description of what your submission is. It should be a m
 
 ### Preview
 
-In this section, include any type of preview elements that would give an insight into what your submission looks like. It can be GIFs, images, videos, or anything similar.
+#### Regular Preview
+[![Watch the video](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/thumbnail.png)](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
 
-Some examples of previews based on repository type:
+#### Full Preview
+[![Watch the video](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/thumb2.png)](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
 
-- For storefront submissions, GIFs are highly recommended that showcase the entire flow (products list, add to cart, checkout, etc…)
-- For integration submissions, images that showcase the integration between Medusa and the tool or service used are recommended.
+#### Zoom, Pan & Rotate Preview 
+[![Watch the video](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/thub3.png)](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
+
+#### Watch Video
+
+[![Watch the video](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
+
+#### Overview
+
+
+![image](https://user-images.githubusercontent.com/100597998/194545519-7b7b5db4-657f-4f55-9aca-eef5a121a5ae.png)
+![image](https://user-images.githubusercontent.com/100597998/194545593-8a1e931d-7ea6-4268-b10d-c50a9e2784d1.png)
 
 ## Set up Project
 
