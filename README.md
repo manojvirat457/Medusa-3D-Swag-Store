@@ -34,7 +34,7 @@ In this section, give a description of what your submission is. It should be a m
 
 #### Watch Video
 
-[![Watch the video](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
+[Watch the video here](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
 
 #### Overview
 
