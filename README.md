@@ -64,15 +64,40 @@ Examples of Prerequisites:
 git clone https://github.com/manojvirat457/Hacktoberfest-medusa
 ```
 
-1. Change directory and install dependencies:
+2. Change directory and install dependencies:
 
 ```bash
 cd Hacktoberfest-medusa
 npm install
 ```
 
+3. Start the project:
+
+```bash
+npm run dev
+```
+4. Open the project in your browser:
+
+```bash
+http://localhost:3000
+```
+
+5. Login with the following credentials:
+
+```bash
+email: admin@medusa-test.com
+password: supersecret
+```
+
+**The project is now running locally, and you can start customizing it, or use it as a base for your own project 🎉**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details
+
 ## Resources
 - [Medusa’s GitHub repository](https://github.com/medusajs/medusa)
 - [Medusa Documentation](https://docs.medusajs.com)
 - [How to Create Services](https://docs.medusajs.com/advanced/backend/services/create-service)
 - [Gatsby Documentation](https://www.gatsbyjs.com/docs)
+- [Medusa Twitter](https://twitter.com/medusajs)
