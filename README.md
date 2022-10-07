@@ -101,3 +101,9 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE) fil
 - [How to Create Services](https://docs.medusajs.com/advanced/backend/services/create-service)
 - [Gatsby Documentation](https://www.gatsbyjs.com/docs)
 - [Medusa Twitter](https://twitter.com/medusajs)
+
+### 👨‍💻 Our Awesome Maintainers and Contributors 👩‍💻
+
+<a href="https://github.com/manojvirat457/Hacktoberfest-medusa/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=manojvirat457/Hacktoberfest-medusa" />
+</a>
