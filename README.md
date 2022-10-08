@@ -150,5 +150,5 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE) fil
 ### 👨‍💻 Our Awesome Maintainers and Contributors 👩‍💻
 
 <a href="https://github.com/manojvirat457/Hacktoberfest-medusa/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=manojvirat457/Hacktoberfest-medusa" />
+  <img src="https://contrib.rocks/image?repo=manojvirat457/Medusa-3D-Swag-Store" />
 </a>
