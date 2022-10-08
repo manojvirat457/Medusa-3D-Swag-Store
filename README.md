@@ -16,6 +16,7 @@
 
 - [Manoj Kumar](https://github.com/manojvirat457) - [Discord](https://discordapp.com/users/930392488643031050)
 - [Krishna Agarwal](https://github.com/MrKrishnaAgarwal) - [Discord](https://discordapp.com/users/983949353171447838)
+- [Tamil Prakash](https://github.com/TamilPrakash-S) - [Discord](https://discordapp.com/users/1028260631356395601)
 
 ### Description
 
@@ -46,6 +47,14 @@ In this section, give a description of what your submission is. It should be a m
 
 This section should cover how to set up and run the project locally. It’s intended to help the Medusa team properly review your submission, as well as help the community to benefit from your submission.
 
+### Port details
+ - Redis - 6379
+ - Postgres - 5432
+ - Minio - 9000, 9001
+ - Backend - 3000
+ - Admin - 7000
+ - Store - 8000
+
 ### Prerequisites
 
 If running your submission requires any prerequisites, make sure to list them in this section.
@@ -55,6 +64,8 @@ Examples of Prerequisites:
 - Medusa Server (Link to [Quickstart](https://docs.medusajs.com/quickstart/quick-start) here).
 - Create an account in service X (for integrations with other services).
 - Redis, PostgreSQL, or any of Medusa’s configurations or plugins.
+- Minio local setup `docker run -p 9000:9000 -d -p 9001:9001 -e "MINIO_ROOT_USER=minio99" -e "MINIO_ROOT_PASSWORD=minio123" quay.io/minio/minio server /data --console-address ":9001"
+`.
 
 ### Install Project
 
@@ -87,6 +98,31 @@ http://localhost:3000
 ```bash
 email: admin@medusa-test.com
 password: supersecret
+```
+
+### To run admin
+1. Go to the root folder
+2. execute `cd admin-portal`
+3. Install dependencies 
+```bash
+  yarn install
+```
+4. Start the project
+```bash
+yarn start
+```
+
+### To run Store
+1. Go to the root folder
+2. execute `cd store`
+3. Install dependencies 
+```bash
+  yarn install
+```
+4. Start the project
+```bash
+yarn build
+yarn start
 ```
 
 **The project is now running locally, and you can start customizing it, or use it as a base for your own project 🎉**
