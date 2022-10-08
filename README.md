@@ -1,10 +1,22 @@
-## Medusa's 3D Swag Store
+<p align="center"> 
+  <a href="https://www.medusa-commerce.com"> 
+    <img alt="Medusa" src="https://user-images.githubusercontent.com/7554214/153162406-bf8fd16f-aa98-4604-b87b-e13ab4baf604.png" width="100" />
+  </a>
+</p>
+<h1 align="center">
+Medusa's 3D Swag Store
+</h1>
+
+<p align="center">
+
+This is a demo store built with [Medusa](https://www.medusajs.com). It is a fully functional e-commerce store that you can use to test out Medusa and we have implemented 3D swag store functionality. Swags are 3D models that can be viewed by the customer before they purchase them.
+</p>
 
 <img src= "assets/Cover.png">
 
 <br>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6ca08976-104d-49d1-b1fb-2381b61ac51c/deploy-status)](https://app.netlify.com/sites/medusa-hackathon/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ca08976-104d-49d1-b1fb-2381b61ac51c/deploy-status)](https://app.netlify.com/sites/medusa-hackathon/deploys) - **Not Deployed Fully**
 
 <br>
 
@@ -182,3 +194,7 @@ We'll deploy the project on heroku and share the link soon. 🚀
 ### Happy Hacking! 🎃
 
 <img src= "https://github.com/manojvirat457/Medusa-3D-Swag-Store/blob/main/assets/Cover%20Template.png" />
+
+**Best Regards,**
+
+**Krishna Agarwal**
