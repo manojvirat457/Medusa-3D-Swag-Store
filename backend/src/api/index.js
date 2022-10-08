@@ -16,7 +16,7 @@ export default (rootDirectory) => {
 
     const { projectConfig } = configModule
     const corsOptions = {
-        origin: projectConfig.admin_cors.split(","),
+        origin: projectConfig.store_cors.split(","),
         credentials: true,
     }
 
@@ -24,23 +24,6 @@ export default (rootDirectory) => {
 
     // localhost:3000/sales-details?duration=week
     router.get("/sales-details/:duration", middlewares.wrap(dashboard.getSalesDetails))
-
-    // router.post(
-    //     "/sales-details",
-    //     bodyParser.json(),
-    //     middlewares.wrap(dashboard.getSalesDetails))
-
-    // router.post(
-    //     "/admin/update-product",
-    //     bodyParser.json(),
-    //     middlewares.wrap(product.update))
-
-    // router.post(
-    //     "admin/add-product",
-    //     bodyParser.json(),
-    //     middlewares.wrap(product.add))
-
-
 
     return router
 }
