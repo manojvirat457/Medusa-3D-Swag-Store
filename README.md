@@ -150,8 +150,8 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE) fil
 
 
 ## RoadMap
-- Multi-tenant implementation
-- Sales & Revenue Dashboards
+- Multi-tenant implementation - Completed
+- Sales & Revenue Dashboards - Inprogress
 - Super Admin access & permissions
 - Microsoft Power BI Implementation
 - Metabase connections
