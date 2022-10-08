@@ -18,7 +18,9 @@
 - [Tamil Prakash](https://github.com/TamilPrakash-S) - [Discord](https://discordapp.com/users/1028260631356395601)
 
 ### Description
-This is an idea, just to prove that medusa can be easily adaptable and customizable upto any limits. Everything you can imagine and that is possible to implement with medusa. 3d preview feature is something where Amazon, flipkart etc are implementing and investing on it. This repo will clear the doubts of the people on choosing medusa as their first choice for their e-commerce idea. 
+
+This is an idea, just to prove that medusa can be easily adaptable and customizable upto any limits. Everything you can imagine and that is possible to implement with Medusa. 3D preview feature is something where Amazon, Flipkart etc... are implementing and investing on it. This repo will clear the doubts of the people on choosing medusa as their first choice for their e-commerce idea and will also help them to get started with medusa.
+Also, this is a complete working example of medusa, so you can use it as a boilerplate for your e-commerce idea.
 
 ### Preview
 
@@ -31,9 +33,9 @@ This is an idea, just to prove that medusa can be easily adaptable and customiza
 #### Zoom, Pan & Rotate Preview 
 [![Watch the video](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/thub3.png)](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
 
-#### Watch Video
+#### Video
 
-[Watch the video here](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
+[Watch the demo video here](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
 
 #### Store Preview
 
@@ -44,13 +46,14 @@ This is an idea, just to prove that medusa can be easily adaptable and customiza
 
 #### Overview
 
-
 ![image](https://user-images.githubusercontent.com/100597998/194545519-7b7b5db4-657f-4f55-9aca-eef5a121a5ae.png)
+
+
 ![image](https://user-images.githubusercontent.com/100597998/194545593-8a1e931d-7ea6-4268-b10d-c50a9e2784d1.png)
 
 ## Set up Project
 
-This section should cover how to set up and run the project locally. It’s intended to help the Medusa team properly review your submission, as well as help the community to benefit from your submission.
+This section should cover how to set up and run the project locally. It’s intended to help the Medusa team properly review your submission, as well as help the community to benefit from our submission. Please read it thoroughly and implement it.
 
 ### Port details
  - Redis - 6379
@@ -62,11 +65,11 @@ This section should cover how to set up and run the project locally. It’s inte
 
 ### Prerequisites
 
-If running your submission requires any prerequisites, make sure to list them in this section.
+We have listed the Prerequisites below:
 
 Examples of Prerequisites:
 
-- Medusa Server (Link to [Quickstart](https://docs.medusajs.com/quickstart/quick-start) here).
+- Medusa Server [Quickstart](https://docs.medusajs.com/quickstart/quick-start).
 - Create an account in service X (for integrations with other services).
 - Redis, PostgreSQL, or any of Medusa’s configurations or plugins.
 - Minio local setup `docker run -p 9000:9000 -d -p 9001:9001 -e "MINIO_ROOT_USER=minio99" -e "MINIO_ROOT_PASSWORD=minio123" quay.io/minio/minio server /data --console-address ":9001"
@@ -153,9 +156,30 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE) fil
 - Microsoft Power BI Implementation
 - Metabase connections
 - Analytics
+- Product Search
 
 ### 👨‍💻 Our Awesome Maintainers and Contributors 👩‍💻
 
 <a href="https://github.com/manojvirat457/Hacktoberfest-medusa/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=manojvirat457/Medusa-3D-Swag-Store" />
 </a>
+
+## Contributing
+
+We welcome contributions from everyone. Please read our [contributing guidelines](/CONTRIBUTING.md) to get started.
+
+## Code of Conduct
+
+We have adopted a Code of Conduct that we expect project participants to adhere to. Please read the [full text](/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+
+## Thank you!
+
+Thank you for taking the time to read this far. We hope you enjoy using Medusa and we look forward to seeing what you build with it! 🎉
+
+Do give a star to the repo if you like our project. 🌟
+
+We'll deploy the project on heroku and share the link soon. 🚀
+
+### Happy Hacking! 🎃
+
+<img src= "https://github.com/manojvirat457/Medusa-3D-Swag-Store/blob/main/assets/Cover%20Template.png" />
