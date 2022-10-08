@@ -1,6 +1,6 @@
 ## Medusa's 3D Swag Store
 
-<img src= "assets/Cover Template.png">
+<img src= "assets/Cover.png">
 
 <br>
 
