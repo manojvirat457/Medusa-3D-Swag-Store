@@ -10,7 +10,6 @@
 
 ## About
 
-### Participants
 
 **Team**
 
@@ -19,8 +18,7 @@
 - [Tamil Prakash](https://github.com/TamilPrakash-S) - [Discord](https://discordapp.com/users/1028260631356395601)
 
 ### Description
-
-In this section, give a description of what your submission is. It should be a maximum of 100 words, and it should revolve around Medusa and how your submission customizes it or what it adds to it.
+This is an idea, just to prove that medusa can be easily adaptable and customizable upto any limits. Everything you can imagine and that is possible to implement with medusa. 3d preview feature is something where Amazon, flipkart etc are implementing and investing on it. This repo will clear the doubts of the people on choosing medusa as their first choice for their e-commerce idea. 
 
 ### Preview
 
@@ -146,6 +144,15 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE) fil
 - [How to Create Services](https://docs.medusajs.com/advanced/backend/services/create-service)
 - [Gatsby Documentation](https://www.gatsbyjs.com/docs)
 - [Medusa Twitter](https://twitter.com/medusajs)
+
+
+## RoadMap
+- Multi-tenant implementation
+- Sales & Revenue Dashboards
+- Super Admin access & permissions
+- Microsoft Power BI Implementation
+- Metabase connections
+- Analytics
 
 ### 👨‍💻 Our Awesome Maintainers and Contributors 👩‍💻
 
