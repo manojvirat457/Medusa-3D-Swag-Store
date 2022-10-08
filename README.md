@@ -8,15 +8,13 @@
 
 <br>
 
-## About
-
+## About the Team behind this project 👨🏻‍💻
 
 **Team**
 
-- [Manoj Kumar](https://github.com/manojvirat457) - [Discord](https://discordapp.com/users/930392488643031050)
-- [Krishna Agarwal](https://github.com/MrKrishnaAgarwal) - [Discord](https://discordapp.com/users/983949353171447838)
+- [Manoj Kumar](https://github.com/manojvirat457) - [Discord](https://discordapp.com/users/930392488643031050): `manojkumar1808#9514`
+- [Krishna Agarwal](https://github.com/MrKrishnaAgarwal) - [Discord](https://discordapp.com/users/983949353171447838): `KrishnaAgarwal#3748`
 - [Tamil Prakash](https://github.com/TamilPrakash-S) - [Discord](https://discordapp.com/users/1028260631356395601)
-- [Pradheep](https://github.com/iamdheep) - [Discord](https://discordapp.com/users/1028260631356395601)
 
 ### Description
 
@@ -54,7 +52,7 @@ Also, this is a complete working example of medusa, so you can use it as a boile
 
 ## Set up Project
 
-This section should cover how to set up and run the project locally. It’s intended to help the Medusa team properly review your submission, as well as help the community to benefit from our submission. Please read it thoroughly and implement it.
+This section should cover how to set up and run the project locally. It’s intended to help the Medusa team properly review our submission, as well as help the community to benefit from our submission. Please read it thoroughly and implement it.
 
 ### Port details
  - Redis - 6379
