@@ -127,6 +127,8 @@ yarn start
 
 **The project is now running locally, and you can start customizing it, or use it as a base for your own project 🎉**
 
+`You can use some sample 3d files you can find under assets/3d files folder` [Here](https://github.com/manojvirat457/Medusa-3D-Swag-Store/tree/main/assets/3d%20files)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details
