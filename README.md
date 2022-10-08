@@ -27,6 +27,7 @@ This is a demo store built with [Medusa](https://www.medusajs.com). It is a full
 - [Manoj Kumar](https://github.com/manojvirat457) - [Discord](https://discordapp.com/users/930392488643031050): `manojkumar1808#9514`
 - [Krishna Agarwal](https://github.com/MrKrishnaAgarwal) - [Discord](https://discordapp.com/users/983949353171447838): `KrishnaAgarwal#3748`
 - [Tamil Prakash](https://github.com/TamilPrakash-S) - [Discord](/#)
+- [Pradheep](https://github.com/iamdheep) - [Discord](/#)
 
 ### Description
 
