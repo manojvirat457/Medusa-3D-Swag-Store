@@ -103,13 +103,13 @@ git clone https://github.com/manojvirat457/Hacktoberfest-medusa
 
 ```bash
 cd Hacktoberfest-medusa
-npm install
+yarn install
 ```
 
 3. Start the project:
 
 ```bash
-npm run dev
+medusa develop
 ```
 4. Open the project in your browser:
 
