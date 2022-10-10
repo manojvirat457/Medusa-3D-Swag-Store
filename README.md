@@ -188,18 +188,9 @@ We welcome contributions from everyone. Please read our [contributing guidelines
 
 We have adopted a Code of Conduct that we expect project participants to adhere to. Please read the [full text](/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
-## Thank you!
-
-Thank you for taking the time to read this far. We hope you enjoy using Medusa and we look forward to seeing what you build with it! 🎉
-
-Do give a star to the repo if you like our project. 🌟
-
 We'll deploy the project on heroku and share the link soon. 🚀
 
 ### Happy Hacking! 🎃
 
 <img src= "https://github.com/manojvirat457/Medusa-3D-Swag-Store/blob/main/assets/Cover%20Template.png" />
 
-**Best Regards,**
-
-**Krishna Agarwal**
