@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-Medusa's 3D Swag Store
+Hacktoberfest - Medusa's 3D Swag Store
 </h1>
 
 <p align="center">
