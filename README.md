@@ -1,24 +1,42 @@
-## Medusa's 3D Swag Store
+<p align="center"> 
+  <a href="https://www.medusa-commerce.com"> 
+    <img alt="Medusa" src="https://user-images.githubusercontent.com/7554214/153162406-bf8fd16f-aa98-4604-b87b-e13ab4baf604.png" width="100" />
+  </a>
+</p>
+<h1 align="center">
+Hacktoberfest - Medusa's 3D Swag Store
+</h1>
 
-<img src= "assets/Cover Template.png">
+<p align="center">
+
+This is a demo store built with [Medusa](https://www.medusajs.com). It is a fully functional e-commerce store that you can use to test out Medusa and we have implemented 3D swag store functionality. Swags are 3D models that can be viewed by the customer before they purchase them.
+</p>
+
+<img src= "assets/Cover.png">
 
 <br>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6ca08976-104d-49d1-b1fb-2381b61ac51c/deploy-status)](https://app.netlify.com/sites/medusa-hackathon/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ca08976-104d-49d1-b1fb-2381b61ac51c/deploy-status)](https://app.netlify.com/sites/medusa-hackathon/deploys) - **Not Deployed Fully**
 
 <br>
 
-## About
-
+## About the Team behind this project 👨🏻‍💻
 
 **Team**
 
-- [Manoj Kumar](https://github.com/manojvirat457) - [Discord](https://discordapp.com/users/930392488643031050)
-- [Krishna Agarwal](https://github.com/MrKrishnaAgarwal) - [Discord](https://discordapp.com/users/983949353171447838)
-- [Tamil Prakash](https://github.com/TamilPrakash-S) - [Discord](https://discordapp.com/users/1028260631356395601)
+- [Manoj Kumar](https://github.com/manojvirat457) - [Discord](https://discordapp.com/users/930392488643031050): `manojkumar1808#9514`
+- [Krishna Agarwal](https://github.com/MrKrishnaAgarwal) - [Discord](https://discordapp.com/users/983949353171447838): `KrishnaAgarwal#3748`
+- [Tamil Prakash](https://github.com/TamilPrakash-S): `Tamil#4879`
+
+**Credits to contributors who helped but didn't participate in the hackathon.**
+
+- [Pradheep](https://github.com/iamdheep)
+
 
 ### Description
-This is an idea, just to prove that medusa can be easily adaptable and customizable upto any limits. Everything you can imagine and that is possible to implement with medusa. 3d preview feature is something where Amazon, flipkart etc are implementing and investing on it. This repo will clear the doubts of the people on choosing medusa as their first choice for their e-commerce idea. 
+
+This is an idea, just to prove that medusa can be easily adaptable and customizable upto any limits. Everything you can imagine and that is possible to implement with Medusa. 3D preview feature is something where Amazon, Flipkart etc... are implementing and investing on it. This repo will clear the doubts of the people on choosing medusa as their first choice for their e-commerce idea and will also help them to get started with medusa.
+Also, this is a complete working example of medusa, so you can use it as a boilerplate for your e-commerce idea.
 
 ### Preview
 
@@ -31,9 +49,9 @@ This is an idea, just to prove that medusa can be easily adaptable and customiza
 #### Zoom, Pan & Rotate Preview 
 [![Watch the video](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/thub3.png)](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
 
-#### Watch Video
+#### Video
 
-[Watch the video here](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
+[Watch the demo video here](https://github.com/manojvirat457/Hacktoberfest-medusa/blob/main/assets/admin.mp4)
 
 #### Store Preview
 
@@ -44,13 +62,14 @@ This is an idea, just to prove that medusa can be easily adaptable and customiza
 
 #### Overview
 
-
 ![image](https://user-images.githubusercontent.com/100597998/194545519-7b7b5db4-657f-4f55-9aca-eef5a121a5ae.png)
+
+
 ![image](https://user-images.githubusercontent.com/100597998/194545593-8a1e931d-7ea6-4268-b10d-c50a9e2784d1.png)
 
 ## Set up Project
 
-This section should cover how to set up and run the project locally. It’s intended to help the Medusa team properly review your submission, as well as help the community to benefit from your submission.
+This section should cover how to set up and run the project locally. It’s intended to help the Medusa team properly review our submission, as well as help the community to benefit from our submission. Please read it thoroughly and implement it.
 
 ### Port details
  - Redis - 6379
@@ -62,11 +81,11 @@ This section should cover how to set up and run the project locally. It’s inte
 
 ### Prerequisites
 
-If running your submission requires any prerequisites, make sure to list them in this section.
+We have listed the Prerequisites below:
 
 Examples of Prerequisites:
 
-- Medusa Server (Link to [Quickstart](https://docs.medusajs.com/quickstart/quick-start) here).
+- Medusa Server [Quickstart](https://docs.medusajs.com/quickstart/quick-start).
 - Create an account in service X (for integrations with other services).
 - Redis, PostgreSQL, or any of Medusa’s configurations or plugins.
 - Minio local setup `docker run -p 9000:9000 -d -p 9001:9001 -e "MINIO_ROOT_USER=minio99" -e "MINIO_ROOT_PASSWORD=minio123" quay.io/minio/minio server /data --console-address ":9001"
@@ -84,13 +103,13 @@ git clone https://github.com/manojvirat457/Hacktoberfest-medusa
 
 ```bash
 cd Hacktoberfest-medusa
-npm install
+yarn install
 ```
 
 3. Start the project:
 
 ```bash
-npm run dev
+medusa develop
 ```
 4. Open the project in your browser:
 
@@ -143,19 +162,35 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE) fil
 - [Medusa Documentation](https://docs.medusajs.com)
 - [How to Create Services](https://docs.medusajs.com/advanced/backend/services/create-service)
 - [Gatsby Documentation](https://www.gatsbyjs.com/docs)
-- [Medusa Twitter](https://twitter.com/medusajs)
+- [Medusa Blog](https://medusajs.com/blog)
 
 
 ## RoadMap
-- Multi-tenant implementation
-- Sales & Revenue Dashboards
+- Multi-tenant implementation - Completed
+- Sales & Revenue Dashboards - Inprogress
 - Super Admin access & permissions
 - Microsoft Power BI Implementation
 - Metabase connections
 - Analytics
+- Product Search
 
 ### 👨‍💻 Our Awesome Maintainers and Contributors 👩‍💻
 
 <a href="https://github.com/manojvirat457/Hacktoberfest-medusa/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=manojvirat457/Medusa-3D-Swag-Store" />
 </a>
+
+## Contributing
+
+We welcome contributions from everyone. Please read our [contributing guidelines](/CONTRIBUTING.md) to get started.
+
+## Code of Conduct
+
+We have adopted a Code of Conduct that we expect project participants to adhere to. Please read the [full text](/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+
+We'll deploy the project on heroku and share the link soon. 🚀
+
+### Happy Hacking! 🎃
+
+<img src= "https://github.com/manojvirat457/Medusa-3D-Swag-Store/blob/main/assets/Cover%20Template.png" />
+
