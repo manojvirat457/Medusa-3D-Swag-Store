@@ -1,6 +1,7 @@
 const URLConfigs = {
-    BASE_URL: 'http://localhost:3000/api/',
-    GET_Work_Package_URL: 'getWorkPackages'
+    BASE_URL: 'http://localhost:3000/',
+    GET_STORES: 'admin/stores',
+    ADMIN_AUTH: 'admin/auth'
 };
 
 export default URLConfigs;

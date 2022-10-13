@@ -5,7 +5,7 @@ import { dispatch } from '../dispatcher';
 const loadPost = async () => {
     var values = await loadPostService();
     console.log(values);
-    dispatch({ type: actionTypes.GET_WORK_PACKAGE_DATA, data: values.data });
+    // dispatch({ type: actionTypes.GET_WORK_PACKAGE_DATA, data: values.data });
 };
 
 const adminAuth = async ({ email, password }) => {

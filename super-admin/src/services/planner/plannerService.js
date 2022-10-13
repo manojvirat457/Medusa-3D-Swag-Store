@@ -14,7 +14,7 @@ export const saveData = async (data) => {
 
 export const loadPostService = async () => {
     const response = await get({
-        url: URLConfigs.BASE_URL + URLConfigs.GET_STORE,
+        url: URLConfigs.BASE_URL + URLConfigs.GET_STORES,
     });
 
     return response;

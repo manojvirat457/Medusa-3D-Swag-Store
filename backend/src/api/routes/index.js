@@ -12,8 +12,9 @@ export default () => {
 
   let product = require("./routes/product")
   let dashboard = require("./routes/dashboard")
+  let store = require('./')
 
-  const storeCors = config.store_cors || ""
+  const storeCors = config.store_cors || "" + "," + config.admin_cors || ""
 
   router.use(
     cors({
@@ -26,6 +27,11 @@ export default () => {
     "/sales-details",
     bodyParser.json(),
     middlewares.wrap(dashboard.getSalesDetails))
+
+    router.post(
+      "/sales-details",
+      bodyParser.json(),
+      middlewares.wrap(dashboard.getSalesDetails))
   
   // router.post(
   //   "/admin/update-product",
