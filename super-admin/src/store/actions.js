@@ -1,0 +1,11 @@
+// action - customization reducer
+export const SET_MENU = '@customization/SET_MENU';
+export const MENU_TOGGLE = '@customization/MENU_TOGGLE';
+export const MENU_OPEN = '@customization/MENU_OPEN';
+export const SET_FONT_FAMILY = '@customization/SET_FONT_FAMILY';
+export const SET_BORDER_RADIUS = '@customization/SET_BORDER_RADIUS';
+export const SET_THEME_MODE = '@customization/SET_THEME_MODE';
+export const SET_THEME_PALETTE = '@customization/SET_THEME_PALETTE';
+export const SET_THEME_DIR = '@customization/SET_THEME_DIR';
+export const SET_FOOTER = '@customization/SET_FOOTER';
+export const SET_MENU_TYPE = '@customization/SET_MENU_TYPE';
