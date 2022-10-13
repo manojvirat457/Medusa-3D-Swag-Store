@@ -4,7 +4,7 @@ import { headersWithoutToken } from '../configs/headerConfigs';
 
 export const saveData = async (data) => {
     const response = await post({
-        url: URLConfigs.BASE_URL + URLConfigs.GET_Work_Package_URL,
+        url: URLConfigs.BASE_URL + URLConfigs.GET_STORE,
         headers: headersWithoutToken(),
         ...data
     });
@@ -14,8 +14,20 @@ export const saveData = async (data) => {
 
 export const loadPostService = async () => {
     const response = await get({
-        url: URLConfigs.BASE_URL + URLConfigs.GET_Work_Package_URL,
-        headers: headersWithoutToken()
+        url: URLConfigs.BASE_URL + URLConfigs.GET_STORE,
+    });
+
+    return response;
+};
+
+export const AuthService = async ({ email, password }) => {
+    let data = {
+        email: email,
+        password: password
+    };
+    const response = await post({
+        url: URLConfigs.BASE_URL + URLConfigs.ADMIN_AUTH,
+        data
     });
 
     return response;

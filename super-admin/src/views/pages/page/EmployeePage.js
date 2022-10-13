@@ -7,6 +7,7 @@ import NestedModal from './AddPopup';
 import { loadPost } from '../../../services/planner/plannerAction';
 import { useSelector } from 'react-redux';
 import Loader from 'ui-component/Loader';
+import useAuth from 'hooks/useAuth';
 
 export default function EmployeePage() {
     const data = useSelector((state) => state.planner.data);
@@ -17,6 +18,7 @@ export default function EmployeePage() {
     }, []);
 
     const fetchData = async () => {
+        await useAuth();
         await loadPost();
     };
 
