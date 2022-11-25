@@ -12,6 +12,8 @@ Hacktoberfest - Medusa's 3D Swag Store
 This is a demo store built with [Medusa](https://www.medusajs.com). It is a fully functional e-commerce store that you can use to test out Medusa and we have implemented 3D swag store functionality. Swags are 3D models that can be viewed by the customer before they purchase them.
 </p>
 
+⭐ **Runner Up - Store (Category Winners)** ➡ [Announcement Post](https://medusajs.com/blog/hackathon-winners#:~:text=MrKrishnaAgarwal) ⭐
+
 <img src= "assets/Cover.png">
 
 <br>
